@@ -1,4 +1,4 @@
-[@Creative-Parasite](https://github.com/Creative-Parasite) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evalyne-kamuri/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evalyne-kamuri/)
 
 # Telco-customer-churn-prediction
 
@@ -11,7 +11,7 @@ Customer churn is the percentage of customers that stopped using your company's 
 2. Assessment of indicators of churn.
 3. Retention strategies to implement.
 
-# DATA STRUCTURE 
+# 📑Data structure 
 The data for this project is in a csv format. The following describes the columns present in the data.
 
 **Gender** -- Whether the customer is a male or a female
@@ -52,7 +52,7 @@ The data for this project is in a csv format. The following describes the column
 
 **TotalCharges** -- The total amount charged to the customer
 
-# SETUP
+# 🏹 Setup
 Retrive your dataset from the data files. In order to run this project you will require:
 
 - **PREREQUISTES**
@@ -84,22 +84,23 @@ Retrive your dataset from the data files. In order to run this project you will 
      ```
        python -m pip install -qr requirements.txt
      ```
-# CONTRIBUTIONS
+# ☑️Contributions
 Contributions, features and issues are welcome .
 
-# SHOW YOUR SUPPORT
+# 🌠Show your support
 If you like this project show some love with a  🌟 **STAR** 🌟
 
-# ACKNOWLEDMENTS 
+# 🤝Acknowledgments 
 I would like to extend my appreciations to my team project and Azubi Africa for their immense support in availing all the necessary resources for this project's success.
 
-# LICENSE 
+# 📋License 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 🦹‍♀️ Author
 
 **Nyawira Kamuri**
 
+[@Creative-Parasite](https://github.com/Creative-Parasite)
 
 
 
