@@ -56,6 +56,7 @@ The data for this project is in a csv format. The following describes the column
 Retrive your dataset from the data files. In order to run this project you will require:
 
 - **PREREQUISTES**
+  
   Installation of VS CODE and Python
   
    - **Clone repository:**
